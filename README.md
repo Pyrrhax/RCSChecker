@@ -1,5 +1,5 @@
 # RCSChecker
-Remote control software Cheker could check whether the remote control software is installed on your machine. In fact, you can use it to check whether any specific software is installed on the machine by modifying the rule base.
+Remote control software Cheker could check whether a remote control software was installed on your machine. Furthermore, by modifying the rule base you could check whether any specific software was installed on your machine with it.
 
 ## 中文介绍
 
@@ -11,4 +11,4 @@ Remote control software Cheker could check whether the remote control software i
 - 也可以在release中直接下载使用pyinstaller打包好的exe
 - 默认规则库中仅支持检测飞秋，向日葵
 ## 运行截图
-<img src="README/169504607-6149638a-348c-4352-8f38-8bc2f3f9aa10.jpg" width="750px">
+<img src="README/169504607-6149638a-348c-4352-8f38-8bc2f3f9aa10.jpg" width=85%>
